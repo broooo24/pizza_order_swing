@@ -1,0 +1,48 @@
+Margaréta
+paradicsomos alap,mozeralla,oregánó
+1100,1790,4790
+
+Sonkás
+paradicsomos alap,mozzarella,sonka,oregánó
+1150,1890,5190
+
+Csirkemájas
+paradicsomos alap,mozzarella, házi csirkemáj ragu, lillahagyma
+1200,1990,5390
+
+Gombás
+paradicsomos alap,mozzarella,sonkás gomba
+1200,1990,5390
+
+Hawai
+paradicsomos alap, sonka, mozzarella, ananász
+1200,1990,5390
+
+Kukoricás
+paradicsomos alap, sonka, mozzarella, kukorica
+1200,1990,5390
+
+Kusza
+paradicsomos alap, mozzarella, szalámi, kukorica
+1200,1990,5390
+
+Négy sajtos
+paradicsomos alap, mozzarella, trappista, füstölt sajt, márvány sajt
+1200,1990,5390
+
+
+Nutella
+eredeti Nutella alap, banánkarikák
+1200,1990,5390
+
+Mecseki csípős
+paradicsomos alap, sonka, mozzarella, csípős kolbász, olajos fokhagyma, erős pista
+1250,2090,5790
+
+Mediterrán
+sajtkrémes alap, sonka, mozzarella, barack, ananász
+1250,2090,5790
+
+Monkey Verem
+sajtkrémes alap, mozzarella, csirkehús, uborka
+1250,2090,5790

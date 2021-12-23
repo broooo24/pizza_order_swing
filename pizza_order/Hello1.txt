@@ -1,0 +1,5 @@
+[1 db kis Négy sajtos ar: 1200, 1 db kozepes Négy sajtos ar:1990]
+[1 db kis Négy sajtos ar: 1200, 1 db nagy Kusza ar: 5390]
+[1 db kis Négy sajtos ar: 1200, 1 db nagy Kusza ar: 5390]
+[1 db kozepes Csirkemájas ar:1990]
+[1 db kozepes Kukoricás ar:1990, 1 db nagy Kukoricás ar: 5390]
